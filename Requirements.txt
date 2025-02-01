@@ -1,0 +1,8 @@
+langchain_experimental 
+langchain_openai
+sentence_transformers==3.4.1
+faiss_cpu==1.10.0
+streamlit
+langchain-groq==0.2.3
+uvicorn
+fastapi
