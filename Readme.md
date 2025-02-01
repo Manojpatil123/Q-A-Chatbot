@@ -64,7 +64,7 @@ GET /ask?query=your_question_here
 ## 📸 Example Results
 Below is a exaomple result of the **Q&A bot**:
 
-!(/result 1.PNG)
+!(https://github.com/Manojpatil123/ab-inbev/blob/main/result%201.PNG)
 
-!(/result 2.PNG)
+!(https://github.com/Manojpatil123/ab-inbev/blob/main/result%202.PNG)
 
