@@ -64,7 +64,7 @@ GET /ask?query=your_question_here
 ## 📸 Example Results
 Below is a exaomple result of the **Q&A bot**:
 
-![Workflow Diagram](result 1.PNG)
+!(/result 1.PNG)
 
-![Workflow Diagram](result 2.PNG)
+!(/result 2.PNG)
 
