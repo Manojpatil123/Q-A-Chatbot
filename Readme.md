@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) Application
+# Retrieval-Augmented  Generation (RAG) Application
 
 ## 📌 Project Overview
 This project implements a **Retrieval-Augmented Generation (RAG) pipeline** using **FAISS** for document retrieval and **Llama 3** for question-answering. The application allows users to ask questions based on a vectorized knowledge base and retrieves the most relevant documents to generate accurate responses.
