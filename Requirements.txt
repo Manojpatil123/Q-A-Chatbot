@@ -1,6 +1,6 @@
 langchain_experimental 
 langchain_openai
-sentence_transformers==3.4.1
+sentence_transformers==5.6.0
 faiss_cpu==1.10.0
 streamlit
 langchain-groq==0.2.3
